@@ -16,7 +16,7 @@ attr_accessor :name
  end
 
 def self.clear_all
-  self.delete
+  self.clear_all
 end
 
 end
